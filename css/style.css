@@ -1,0 +1,26 @@
+
+
+.text {
+	color: red;
+}
+
+.do p {
+	color: blue;
+}
+
+#helps {
+	color: green;
+}
+
+footer {
+	color: darkmagenta;
+}
+
+#precaution > p {
+	color: maroon;
+}
+
+.exe,
+.cardio {
+	color: teal;
+}
